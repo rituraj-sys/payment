@@ -7,7 +7,7 @@ salt = 'MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxQyxletw5kE/0R+8uNEHO
 base_url = 'https://secure.payu.in/_payment'  # Use the appropriate endpoint URL
 
 # Payment details
-amount = '1.00'  # Amount to be paid
+amount = '11.00'  # Amount to be paid
 product_info = 'Test Product'
 firstname = 'John'
 email = 'john.doe@example.com'
